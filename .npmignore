@@ -1,0 +1,29 @@
+# Test files
+test/
+*.test.js
+*.test.xlsx
+*.test.xlsm
+test-output/
+
+# Examples
+examples/*.xlsx
+examples/*.xlsm
+
+# Development files
+.vscode/
+.idea/
+.git/
+.gitignore
+
+# Documentation sources
+docs/
+
+# CI/CD
+.github/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

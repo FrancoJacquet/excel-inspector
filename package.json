@@ -1,0 +1,55 @@
+{
+  "name": "excel-inspector-cli",
+  "version": "1.0.0",
+  "description": "A powerful CLI tool to convert Excel files to structured JSON - Built with AI workflows in mind",
+  "main": "index.js",
+  "bin": {
+    "excel-inspector": "./index.js"
+  },
+  "scripts": {
+    "inspect": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "node examples/node-example.js",
+    "prepublishOnly": "echo '⚠️  Remember to update CHANGELOG.md and version!' && echo 'Run: npm version [patch|minor|major]'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/excel-inspector.git"
+  },
+  "homepage": "https://github.com/yourusername/excel-inspector#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/excel-inspector/issues"
+  },
+  "keywords": [
+    "excel",
+    "xlsx",
+    "xlsm",
+    "json",
+    "ai",
+    "llm",
+    "inspector",
+    "cli",
+    "parser",
+    "converter",
+    "spreadsheet",
+    "data-analysis",
+    "csv",
+    "chatgpt",
+    "claude"
+  ],
+  "author": "Excel Inspector Contributors",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {},
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE",
+    "AI-USAGE.md"
+  ]
+}
