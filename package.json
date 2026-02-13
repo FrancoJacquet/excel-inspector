@@ -4,11 +4,11 @@
   "description": "A powerful CLI tool to convert Excel files to structured JSON - Built with AI workflows in mind",
   "main": "index.js",
   "bin": {
-    "excel-inspector": "./index.js"
+    "excel-inspector": "index.js"
   },
   "scripts": {
     "inspect": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"⚠️ No tests yet - Coming soon!\" && exit 0",
     "example": "node examples/node-example.js",
     "prepublishOnly": "echo '⚠️  Remember to update CHANGELOG.md and version!' && echo 'Run: npm version [patch|minor|major]'"
   },
