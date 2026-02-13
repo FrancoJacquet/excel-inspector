@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/excel-inspector.git"
+    "url": "git+https://github.com/FrancoJacquet/excel-inspector.git"
   },
-  "homepage": "https://github.com/yourusername/excel-inspector#readme",
+  "homepage": "https://github.com/FrancoJacquet/excel-inspector#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/excel-inspector/issues"
+    "url": "https://github.com/FrancoJacquet/excel-inspector/issues"
   },
   "keywords": [
     "excel",

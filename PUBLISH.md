@@ -69,7 +69,7 @@ npm publish
 
 ### 5. Create GitHub Release
 
-1. Go to: https://github.com/yourusername/excel-inspector/releases/new
+1. Go to: https://github.com/FrancoJacquet/excel-inspector/releases/new
 2. Select the tag you just created
 3. Title: `v1.1.0`
 4. Copy the relevant section from CHANGELOG.md

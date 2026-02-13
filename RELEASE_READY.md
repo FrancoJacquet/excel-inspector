@@ -197,7 +197,7 @@ git push -u origin main
 
 ### 2. Update URLs in Documentation
 
-Replace `yourusername` with your actual GitHub username in:
+Replace `FrancoJacquet` with your actual GitHub username in:
 - [ ] README.md
 - [ ] CONTRIBUTING.md
 - [ ] CHANGELOG.md
@@ -207,7 +207,7 @@ Replace `yourusername` with your actual GitHub username in:
 **Find & Replace:**
 ```bash
 # In VS Code or terminal:
-find . -type f -name "*.md" -o -name "*.json" | xargs sed -i 's/yourusername/YOUR_ACTUAL_USERNAME/g'
+find . -type f -name "*.md" -o -name "*.json" | xargs sed -i 's/FrancoJacquet/YOUR_ACTUAL_USERNAME/g'
 ```
 
 ### 3. Update Contact Information

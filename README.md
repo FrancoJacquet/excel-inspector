@@ -178,7 +178,7 @@ This tool was specifically designed for AI workflows. See [AI-USAGE.md](./AI-USA
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/excel-inspector.git
+git clone https://github.com/FrancoJacquet/excel-inspector.git
 cd excel-inspector
 
 # Install dependencies
@@ -241,8 +241,8 @@ Most Excel parsing tools either:
 ## 🔗 Links
 
 - [NPM Package](https://www.npmjs.com/package/excel-inspector-cli)
-- [GitHub Repository](https://github.com/yourusername/excel-inspector)
-- [Report Issues](https://github.com/yourusername/excel-inspector/issues)
+- [GitHub Repository](https://github.com/FrancoJacquet/excel-inspector)
+- [Report Issues](https://github.com/FrancoJacquet/excel-inspector/issues)
 - [Quick Start Guide](./QUICKSTART.md) - Get started in 60 seconds!
 - [AI Usage Guide](./AI-USAGE.md) - For AI assistants
 - [Contributing Guide](./CONTRIBUTING.md) - How to contribute

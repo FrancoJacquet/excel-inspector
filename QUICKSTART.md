@@ -104,7 +104,7 @@ If you're an AI helping a user, read [AI-USAGE.md](./AI-USAGE.md) for the comple
 ## ❓ Need Help?
 
 - Run `excel-inspector --help` for inline help
-- Check [GitHub Issues](https://github.com/yourusername/excel-inspector/issues)
+- Check [GitHub Issues](https://github.com/FrancoJacquet/excel-inspector/issues)
 - Read the [documentation](./README.md)
 
 ---

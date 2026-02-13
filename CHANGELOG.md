@@ -78,6 +78,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to contribute to this changelog
 
 ## Links
 
-- [GitHub Releases](https://github.com/yourusername/excel-inspector/releases)
+- [GitHub Releases](https://github.com/FrancoJacquet/excel-inspector/releases)
 - [NPM Package](https://www.npmjs.com/package/excel-inspector-cli)
-- [Report Issues](https://github.com/yourusername/excel-inspector/issues)
+- [Report Issues](https://github.com/FrancoJacquet/excel-inspector/issues)

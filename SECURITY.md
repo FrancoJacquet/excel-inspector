@@ -16,7 +16,7 @@ If you discover a security vulnerability in Excel Inspector, please report it pr
 
 1. **Do NOT open a public issue**
 2. Email the maintainers directly at: [your-email@example.com]
-3. Or use GitHub's private vulnerability reporting: https://github.com/yourusername/excel-inspector/security/advisories/new
+3. Or use GitHub's private vulnerability reporting: https://github.com/FrancoJacquet/excel-inspector/security/advisories/new
 
 ### What to Include
 

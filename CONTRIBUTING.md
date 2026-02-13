@@ -34,7 +34,7 @@ This project follows a simple principle: **Be respectful and constructive**.
 ### Reporting Bugs
 
 Before submitting a bug report:
-- Check the [issue tracker](https://github.com/yourusername/excel-inspector/issues) to avoid duplicates
+- Check the [issue tracker](https://github.com/FrancoJacquet/excel-inspector/issues) to avoid duplicates
 - Collect relevant information (Node version, Excel file format, command used, etc.)
 
 **When submitting a bug report, include:**
@@ -47,7 +47,7 @@ Before submitting a bug report:
 ### Suggesting Features
 
 Feature requests are welcome! Please:
-- Use the [issue tracker](https://github.com/yourusername/excel-inspector/issues)
+- Use the [issue tracker](https://github.com/FrancoJacquet/excel-inspector/issues)
 - Provide a clear description of the feature
 - Explain the use case and benefits
 - Consider backward compatibility
@@ -273,7 +273,7 @@ When adding features, update:
 ## ❓ Questions?
 
 If you have questions:
-- Check existing [issues](https://github.com/yourusername/excel-inspector/issues)
+- Check existing [issues](https://github.com/FrancoJacquet/excel-inspector/issues)
 - Open a new issue with the "question" label
 - Join discussions (if available)
 

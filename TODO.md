@@ -117,7 +117,7 @@ Items that were on this list and are now done:
 Have an idea? 
 
 1. Check if it's already listed here
-2. Open an [issue](https://github.com/yourusername/excel-inspector/issues) to discuss
+2. Open an [issue](https://github.com/FrancoJacquet/excel-inspector/issues) to discuss
 3. If approved, submit a PR!
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
